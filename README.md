@@ -87,7 +87,7 @@ First you need to create a Discord bot user, which you can do by following the i
       "1234567890": "#channel" // Use a discord channel ID instead of its name (so you can rename it or to disambiguate)
     },
     "channelTopicsToDiscord": [ // Sends topic changes from IRC to Discord
-      "#irc
+      "#irc"
     ],
     "ircOptions": { // Optional node-irc options
       "floodProtection": false, // On by default
